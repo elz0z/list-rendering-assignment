@@ -12,4 +12,4 @@ It's a linux terminal simulation
 ### Acode
 It's IDE for andriod which have alot of useful extensions like vs code
 
-#Thanks for reading 
+# Thanks for reading 
