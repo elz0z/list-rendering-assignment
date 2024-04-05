@@ -14,7 +14,7 @@ export default function Header() {
     };
     return (
         <header style={headerStyle}>
-            <h1 style={{ margin: 0 }}>Props Assignment</h1>
+            <h1 style={{ margin: 0 }}>List rendering</h1>
         </header>
     );
 }
